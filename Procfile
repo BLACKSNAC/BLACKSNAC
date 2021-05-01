@@ -1,1 +1,1 @@
-userbot: python -m ustad.py
+ worker: python -m ustad.py
