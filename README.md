@@ -3,6 +3,16 @@
 <h3 style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 0px !important;">
 
 🔥 The Most Powerfull Userbot 🔥 𝔹𝕃𝔸ℂ𝕂 𝕊ℕ𝔸𝕂𝔼</h3>
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/BLACKSNAC/BLACKSNAC)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)](https://github.com/BLACKSNAC/BLACKSNAC#copyright--license)
+[![Stars](https://img.shields.io/github/stars/BLACKSNAC/BLACKSNAC?&style=flat-square)](https://github.com/BLACKSNAC/BLACKSNAC/stargazers)
+[![Forks](https://img.shields.io/github/forks/BLACKSNAC/BLACKSNAC?&style=flat-square)](https://github.com/BLACKSNAC/BLACKSNAC/network/members)
+[![Issues Open](https://img.shields.io/github/issues/BLACKSNAC/BLACKSNAC?&style=flat-square)](https://github.com/BLACKSNAC/BLACKSNAC/issues)
+[![Issues Closed](https://img.shields.io/github/issues-closed/BLACKSNAC/BLACKSNAC?&style=flat-square)](https://github.com/BLACKSNAC/BLACKSNAC/issues?q=is:closed)
+[![PR Open](https://img.shields.io/github/issues-pr/BLACKSNAC/BLACKSNAC?&style=flat-square)](https://github.com/BLACKSNAC/BLACKSNAC/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/BLACKSNAC/BLACKSNAC?&style=flat-square)](https://github.com/BLACKSNAC/BLACKSNAC/pulls?q=is:closed)
+![Repo Size](https://img.shields.io/github/repo-size/BLACKSNAC/BLACKSNAC?style=flat-square)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Royal_Boy_45)
 
 <div style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; margin-bottom: 16px;">
 
