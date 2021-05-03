@@ -71,7 +71,7 @@ Jinja2==2.11.2
 JustWatch==0.5.1
 loguru==0.5.3
 lottie==0.6.6
-lxml==4.5.2
+lxml==4.6.3
 lyricsgenius==2.0.2
 MarkupSafe==1.1.1
 multidict==5.0.2
