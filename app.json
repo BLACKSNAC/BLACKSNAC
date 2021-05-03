@@ -12,6 +12,7 @@
   "repository": "https://github.com/BLACKSNAC/BLACKSNAC",
   "website": "https://github.com/BLACKSNAC/BLACKSNAC",
   "success_url": "https://t.me/Black_snack_support",
+  "stack": "container",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
