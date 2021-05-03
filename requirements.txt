@@ -144,7 +144,7 @@ typing-extensions==3.7.4.3
 tzlocal==2.1
 urbandict==0.6.1
 uritemplate==3.0.1
-urllib3==1.26.2
+urllib3==1.26.4
 uwsgidecorators==1.1.0
 validators==0.18.1
 websocket-client==0.57.0
