@@ -58,9 +58,9 @@ RUN apt-get autoremove --purge
 #RUN rm -r /root/.cache
 RUN axel https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && apt install -y ./google-chrome-stable_current_amd64.deb && rm google-chrome-stable_current_amd64.deb
 RUN axel https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_linux64.zip && unzip chromedriver_linux64.zip && chmod +x chromedriver && mv -f chromedriver /usr/bin/ && rm chromedriver_linux64.zip
-RUN wget -O opencv.zip https://github.com/opencv/opencv/archive/master.zip && unzip opencv.zip && mv -f opencv-master /usr/bin/ && rm opencv.zip
-RUN wget https://raw.githubusercontent.com/BLACKSNAC/BLACKSNAC/master/ustad.py
-RUN wget https://raw.githubusercontent.com/BLACKSNAC/BLACKSNAC/master/requirements.txt
+#RUN wget -O opencv.zip https://github.com/opencv/opencv/archive/master.zip && unzip opencv.zip && mv -f opencv-master /usr/bin/ && rm opencv.zip
+#RUN wget https://raw.githubusercontent.com/BLACKSNAC/BLACKSNAC/master/ustad.py
+#RUN wget https://raw.githubusercontent.com/BLACKSNAC/BLACKSNAC/master/requirements.txt
 #RUN git clone https://github.com/BLACKSNAC/BLACKSNAC /root/userbot
 #RUN mkdir /root/userbot/bin/
 #WORKDIR /root/userbot/
