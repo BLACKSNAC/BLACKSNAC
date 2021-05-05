@@ -1,14 +1,11 @@
-# The entire code given below is verbatim copied from
-# https://github.com/cyberboysumanjay/Gdrivedownloader/blob/master/gdrive_upload.py
-# there might be some changes made to suit the needs for this repository
-# Licensed under MIT License
-
+# Fix By Aman Pandey
 import asyncio
 import os
 import time
 import math
 from datetime import datetime
 from telethon import events
+from userbot import CMD_HELP
 from userbot.utils import admin_cmd, progress
 #
 from googleapiclient.discovery import build
@@ -328,3 +325,6 @@ async def _(event):
         return
     folder_link = "https://drive.google.com/folderview?id="+parent_id    
     await event.edit("`Here is Your G-Drive Folder link : `\n"+folder_link)
+
+CMD_HELP.update({
+    "gdrive":"Abhi to mene bhi use ni kiya saar use krke bata ta hu ok"})
