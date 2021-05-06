@@ -67,7 +67,7 @@ hyperframe==5.2.0
 idna==2.10
 image==1.5.33
 iplookup==1.0.5
-Jinja2==2.11.2
+Jinja2==2.11.3
 JustWatch==0.5.1
 loguru==0.5.3
 lottie==0.6.6
