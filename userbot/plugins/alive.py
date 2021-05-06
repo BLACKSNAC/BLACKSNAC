@@ -1,7 +1,5 @@
-# Thanks to Sipak bro and Aryan.. 
-# animation Idea by @ItzSipak && @Hell boy_pikachu
-# Made by @hellboi_shivansh ....and thanks to @Crackexy for the logos...
-# Kang with credits else gay...
+# Ported From DYNAMIC USERBOT 
+# Dont Port Or Kang Without Taking permisson Else GBAM
 import asyncio
 import os
 import requests
@@ -17,12 +15,8 @@ from . import dcdef
 from telethon.tl.types import ChannelParticipantsAdmins
 # 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "BLACK SNAKE"
-
-# Thanks to Sipak bro and Aryan.. 
-# animation Idea by @ItzSipak && @Hell boy_pikachu
-# Made by @hellboi_Shivansh ....and thanks to @Crackexy for the logos...
-# Kang with credits else gay...
-# alive.py for BS(BLACK SNAKE)
+# Ported From DYNAMIC USERBOT Aman pandey
+# Dont Port Or Kang Without Taking permisson Else GBAM
 global ghanti
 ghanti = borg.uid
 edit_time = 1
