@@ -2,7 +2,7 @@ telethon==1.19.0
 a-pytube-fork-for-spotdl-users==9.6.4
 aiofiles==0.6.0
 antispaminc==3.8
-aiohttp==3.7.3
+aiohttp==3.7.4
 apiclient==1.0.4
 APScheduler==3.6.3
 aria2p==0.9.1
